@@ -8,3 +8,4 @@ public class MarksManagement {
     }
 } 
 // javac -cp .:lib/mysql-connector-j-9.5.0.jar GroupProject/*.java
+// java -cp .:lib/mysql-connector-j-9.5.0.jar GroupProject.MarksManagement
