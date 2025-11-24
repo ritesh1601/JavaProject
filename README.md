@@ -20,3 +20,6 @@ java -cp ".;lib/mysql-connector-j-9.5.0.jar" GroupProject.MarksManagement
 <img width="1021" height="453" alt="image" src="https://github.com/user-attachments/assets/f0578462-7de8-4e1b-8d3c-bb37a2216c1d" />
 
 In this file , change the pass , change it to your local machine mySQL password
+
+
+**MySQL is required in the local system**
