@@ -3,7 +3,7 @@
 `
 Go to directory -> JavaProject #in terminal
 `
-
+`For Windows`
 `Compile by :
 `
 ```
@@ -16,7 +16,17 @@ javac -cp ".;lib/mysql-connector-j-9.5.0.jar" (Get-ChildItem GroupProject/*.java
 ```
 java -cp ".;lib/mysql-connector-j-9.5.0.jar" GroupProject.MarksManagement
 ```
+`For Linux`
+`Compile By : `
 
+```
+javac -cp .:lib/mysql-connector-j-9.5.0.jar GroupProject/*.java
+```
+
+`Run Code By :`
+```
+java -cp .:lib/mysql-connector-j-9.5.0.jar GroupProject.MarksManagement
+```
 <img width="1021" height="453" alt="image" src="https://github.com/user-attachments/assets/f0578462-7de8-4e1b-8d3c-bb37a2216c1d" />
 
 In this file , change the pass , change it to your local machine mySQL password
